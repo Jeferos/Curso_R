@@ -1,3 +1,4 @@
+# Etiquetado de Factores
 x <- c(3,2,4,5,6,4)             # Creamos un vector numérico.
 y <- c(0,0,1,1,0,1)             # Creamos otro vector numérico, que refleja información cualitativa.
 cbind(x,y)                      # Combinamos por columnas, debido a que el número de filas es el mismo.
